@@ -10,5 +10,6 @@ The testbench should be time-independent, which means that the testing input sho
 Submission includes:
 
 /src - design sources, .v, tb
-
 /report - rtl simulation log, synthesis log/resource, timing report
+
+HackMD submission: https://hackmd.io/@JokerAnthonio/rJS2aTQK1g
